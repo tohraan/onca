@@ -1,0 +1,7 @@
+{
+  "name": "ONCA SMB Financial OS",
+  "description": "A comprehensive SaaS financial management portal featuring real-time cash flow tracking, AI-powered insights, expense management, and compliance tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
